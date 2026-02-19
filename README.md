@@ -1,4 +1,4 @@
-#  About Me:
+
 Computer Science Undergraduate @ Temple University<br>
 
 
